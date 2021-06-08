@@ -1,0 +1,9 @@
+{
+    "name": "lab330-pc31/rezky",
+    "description": "Yes",
+    "type": "project",
+    "license": "GPL",
+    "require": {
+        "google/apiclient": "^2.9"
+    }
+}
